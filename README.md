@@ -1,4 +1,3 @@
-![MasterHead](https://media.giphy.com/media/7zJgqvSbjBH2M/giphy.gif)
 <h1 align="center">Hi 👋, I'm Ruben Tanahara</h1>
 <h3 align="center">A  Backend Developer</h3>
 
