@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]("url")
+![MasterHead](https://media.giphy.com/media/7zJgqvSbjBH2M/giphy.gif)
 <h1 align="center">Hi 👋, I'm Ruben Tanahara</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
