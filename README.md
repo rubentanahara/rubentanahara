@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruben Tanahara</h1>
 <h3 align="center">Software Engineer</h3>
 
-
-
-## I'm a Software Engineer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Backend and DevOps
-- ⚡ Fun fact: I love to play guitar and coffee 
-
 ### Connect with me:
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/rubenmtzt#gh-light-mode-only)
