@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ruben Tanahara</h1>
 <h3 align="center">Software Engineer</h3>
-<h3 align="center">📍 Guadalajara, Jalisco</h3>
+<h3 align="center">📍 Ensenada, Baja California</h3>
 
 ## Summary
 
